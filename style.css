@@ -37,3 +37,8 @@
 .catagories img{
     width: 100px;
 }
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightsalmon;
+    border-radius: 5px;
+}
